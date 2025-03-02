@@ -16,4 +16,3 @@ Responsive personal portfolio website built with React and Vite.
 
 ## Contact
 - Email: akashsharma110103@gmail.com
-- Mobile: 7027426898
